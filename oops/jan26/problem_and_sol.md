@@ -1,5 +1,5 @@
 
-### **1. Library Management System**
+### **Library Management System**
 #### **Problem Statement**
 Design a library management system that maintains a collection of books and allows users to perform operations like issuing and returning books.
 
